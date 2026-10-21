@@ -18,6 +18,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg)](https://doi.org/10.5281/zenodo.21546006)
 [![Google Credentials](https://img.shields.io/badge/Google_Cloud-Verified_MLOps-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
+[![AIRA AI Sentinel](https://img.shields.io/badge/AI_Moderator-@AIRA--Sentinel_ACTIVE-00f2fe?style=for-the-badge&logo=githubactions&logoColor=black)](#-autonomous-ai-sentinel--moderator)
 
 <br/>
 
@@ -91,6 +92,24 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 | **[Aira-AI-Non-Trained](https://github.com/adameehanairagroup/Aira-AI-Non-Trained)** | Build and train your own Small Language Model (SLM) from scratch with educational code walkthroughs. | Python / PyTorch / Deep Learning | `Open-Source` 🧠 |
 
 </div>
+
+---
+
+## 🛡️ Autonomous AI Sentinel & Moderator
+
+<div align="center">
+
+[![AIRA Sentinel](https://img.shields.io/badge/Autonomous_Sentinel-@AIRA--Sentinel-00f2fe?style=for-the-badge&logo=shield&logoColor=black)](#)
+[![Status](https://img.shields.io/badge/Code_Guardian-ACTIVE_24%2F7-00C853?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Engine](https://img.shields.io/badge/Engine-Aira_3_Ultra_v3.6-7928CA?style=for-the-badge&logo=cpu&logoColor=white)](#)
+
+</div>
+
+All open-source repositories authored by **Er. Adam Eehan** are actively moderated and inspected 24/7 by **`@AIRA-Sentinel`** — sovereign autonomous CI/CD intelligence powered by **Aira 3 Ultra**:
+
+- 🔍 **Automated PR Reviews:** Inbound pull requests are parsed with AST-level security heuristics, prompt-injection defense checks, and structural code reviews.
+- ⚡ **Autonomous Issue Triage:** Community reports and feature requests receive rapid triage labeling (`triage`, `community`) and priority escalation.
+- 🤝 **Open Collaboration:** Fostering transparent, high-integrity open-source collaboration across the sovereign decentralized software ecosystem.
 
 ---
 
