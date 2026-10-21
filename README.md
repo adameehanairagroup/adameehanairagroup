@@ -2,11 +2,7 @@
 
 <p align="center">
   <a href="https://adameehan.vercel.app/">
-    <img src="assets/author.png" width="145" height="145" alt="Adam Eehan" style="border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="assets/author-dot.svg">
-    <img src="assets/author-dot.png" width="145" height="145" alt="Adam Eehan Cyber Dot Matrix" style="border-radius: 50%;" />
+    <img src="assets/author-dot.svg" width="220" height="220" alt="Adam Eehan Cyber Dot Matrix Portrait" />
   </a>
 </p>
 
@@ -43,6 +39,31 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 * 🧠 **Flagship Invention:** [AiraLang Programming Language (v1.6.0)](https://github.com/adameehanairagroup/Airalang)
 * 🛡️ **Cybersecurity Research:** Author of *"Neutralizing AI Prompt Injection via Recursive Honey-potting"* (Google VRP Reference ID: 493408185).
 * 🎖️ **Credentials:** Google-credentialed in *MLOps Model Evaluation & Generative AI Platform Architecture*.
+
+---
+
+## 🏆 Verified Credentials & Certifications
+
+<div align="center">
+
+<a href="https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982">
+  <img src="https://img.shields.io/badge/Google_Cloud-Verified_Credentials_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Verified Profile" />
+</a>
+
+<br/><br/>
+
+| Google Ads Certification | Vertex AI MLOps Specialization | Generative AI MLOps Specialization |
+| :---: | :---: | :---: |
+| <img src="assets/google-ads-certificate.jpg" width="240" alt="Google Ads Certification" /><br/>**Google Skillshop** | <img src="assets/mlops-vertexai-badge.jpg" width="240" alt="Vertex AI MLOps Badge" /><br/>**Google Cloud / Vertex AI** | <img src="assets/mlops-genai-badge.jpg" width="240" alt="Generative AI MLOps Badge" /><br/>**Google Cloud GenAI** |
+| *Campaign Architecture, Search & Display Strategy, & Marketing Analytics* | *Pipelines Orchestration, Feature Store, Custom Training & CI/CD* | *LLM Lifecycle, Prompt Defense, Fine-Tuning & Enterprise RAG* |
+| [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) | [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) | [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) |
+
+<br/>
+
+> 🛡️ **Google VRP Security Researcher**  
+> **Reference ID:** `493408185` • Author of *"Neutralizing AI Prompt Injection via Recursive Honey-potting"*
+
+</div>
 
 ---
 
