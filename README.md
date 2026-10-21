@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# ⚡ ADAM EEHAN
+# Er.Adam Eehan
 ### 🚀 Founder & CEO, Aira Group of Technology
 **Creator of AiraLang & AIRA AI • Systems & AI Architect • Cybersecurity Researcher**
 
