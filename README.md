@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://adameehan.vercel.app/">
-    <img src="assets/author.png" width="140" height="140" alt="Adam Eehan" style="border-radius: 50%;" />
+    <img src="assets/author.png" width="145" height="145" alt="Adam Eehan" style="border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://adameehan.vercel.app/">
-    <img src="assets/author-dot.svg" width="140" height="140" alt="Adam Eehan Cyber Dot Matrix" />
+    <img src="assets/author-dot.png" width="145" height="145" alt="Adam Eehan Cyber Dot Matrix" style="border-radius: 50%;" />
   </a>
 </p>
 
