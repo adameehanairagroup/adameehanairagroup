@@ -1,5 +1,15 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://adameehan.vercel.app/">
+    <img src="assets/author.png" width="140" height="140" alt="Adam Eehan" style="border-radius: 50%;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://adameehan.vercel.app/">
+    <img src="assets/author-dot.svg" width="140" height="140" alt="Adam Eehan Cyber Dot Matrix" />
+  </a>
+</p>
+
 # ⚡ ADAM EEHAN
 ### 🚀 Founder & CEO, Aira Group of Technology
 **Creator of AiraLang & AIRA AI • Systems & AI Architect • Cybersecurity Researcher**
