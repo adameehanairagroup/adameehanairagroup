@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Er.Adam Eehan <img src="assets/verified.svg" width="28" height="28" alt="Verified" title="Verified" />
+# Er.Adam Eehan <img src="assets/verified.png" width="32" height="32" alt="Verified" title="Meta Verified Creator & Founder" />
 ### 🚀 Founder & CEO, Aira Group of Technology
 **Creator of AiraLang & AIRA AI • Systems & AI Architect • Cybersecurity Researcher**
 
