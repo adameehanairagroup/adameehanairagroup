@@ -15,6 +15,7 @@
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141755677-blue?logo=wikidata&logoColor=white&style=for-the-badge)](https://www.wikidata.org/wiki/Q141755677)
 [![Wikimedia](https://img.shields.io/badge/Wikimedia_Commons-Verified_Photo-006699?logo=wikimedia-commons&logoColor=white&style=for-the-badge)](https://commons.wikimedia.org/wiki/File:Adam_Eehan.jpg)
 [![Portfolio](https://img.shields.io/badge/3D_Portfolio-Pandora_WebGL-00f2fe?logo=three.js&logoColor=black&style=for-the-badge)](https://adameehan.vercel.app/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg)](https://doi.org/10.5281/zenodo.21546006)
 [![Google Credentials](https://img.shields.io/badge/Google_Cloud-Verified_MLOps-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
 
@@ -37,6 +38,7 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 
 * 👑 **Founder & CEO:** [Aira Group of Technology](https://adameehantech.gitlab.io/airalang-website/)
 * 🧠 **Flagship Invention:** [AiraLang Programming Language (v1.6.0)](https://github.com/adameehanairagroup/Airalang)
+* 🔬 **Scientific Research Publication:** Registered under CERN / Zenodo Open Science Repository — [DOI: 10.5281/zenodo.21546006](https://doi.org/10.5281/zenodo.21546006)
 * 🛡️ **Cybersecurity Research:** Author of *"Neutralizing AI Prompt Injection via Recursive Honey-potting"* (Google VRP Reference ID: 493408185).
 * 🎖️ **Credentials:** Google-credentialed in *MLOps Model Evaluation & Generative AI Platform Architecture*.
 
@@ -57,6 +59,12 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 | <img src="assets/google-ads-certificate.jpg" width="240" alt="Google Ads Certification" /><br/>**Google Skillshop** | <img src="assets/mlops-vertexai-badge.jpg" width="240" alt="Vertex AI MLOps Badge" /><br/>**Google Cloud / Vertex AI** | <img src="assets/mlops-genai-badge.jpg" width="240" alt="Generative AI MLOps Badge" /><br/>**Google Cloud GenAI** |
 | *Campaign Architecture, Search & Display Strategy, & Marketing Analytics* | *Pipelines Orchestration, Feature Store, Custom Training & CI/CD* | *LLM Lifecycle, Prompt Defense, Fine-Tuning & Enterprise RAG* |
 | [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) | [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) | [Verify on Google Skills](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982) |
+
+<br/>
+
+> 🔬 **CERN / Zenodo Open Science Publication**  
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg)](https://doi.org/10.5281/zenodo.21546006)  
+> **Direct DOI Link:** [https://doi.org/10.5281/zenodo.21546006](https://doi.org/10.5281/zenodo.21546006) • Official Scientific Software & Research Record
 
 <br/>
 
