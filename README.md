@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://adameehan.vercel.app/">
-    <img src="assets/author-dot.svg" width="320" height="320" alt="Adam Eehan Cyber Dot Matrix Portrait" />
+    <img src="assets/author-dot.svg" width="440" height="440" alt="Adam Eehan Cyber Dot Matrix Portrait" />
   </a>
 </p>
 
