@@ -97,7 +97,7 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Official_Portfolio-adameehan.vercel.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://adameehan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/adam-eehan-1058133b7?utm_source=share_via&utm_content=profile&utm_medium=member_android?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adameehan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ben.10z__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ben.10z_)
 [![GitLab](https://img.shields.io/badge/GitLab-adameehantech-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/adameehantech)
 [![Email](https://img.shields.io/badge/Email-contact@airagroup.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@airagroup.tech)
