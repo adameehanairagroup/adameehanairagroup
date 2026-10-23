@@ -45,6 +45,20 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 
 ---
 
+## 📜 The Sovereign Open-Source Covenant
+### *"The Promise of Er. Adam Eehan to Humanity"*
+
+> *"No matter how multi-billion dollar Aira Group of Technology becomes in the future, I make an unbreakable public covenant: Every Software, Sovereign AI Model, Operating System (Airlys), Cloud Infrastructure, or Programming Language (AiraLang) we invent will ALWAYS maintain a parallel, 100% Free Open-Source counterpart for students and developers worldwide.*
+> 
+> *Commercial corporations in affluent Western markets will fund our research through full enterprise pricing, and those revenues will permanently guarantee 100% LIFETIME Free compute, software, and tools for students, broke dreamers in India, developing nations, and verified low-income youth across all countries.*
+> 
+> *I know the roots I came from. I will never lock the doors behind me."*
+> 
+> **— Er. Adam Eehan**  
+> *Founder & CEO, Aira Group of Technology*
+
+---
+
 ## 🏆 Verified Credentials & Certifications
 
 <div align="center">
