@@ -83,6 +83,7 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[AiraLang](https://github.com/adameehanairagroup/Airalang)** | World-first AI-Native Systems Language with in-code directives (`@airaai`), Self-Healing Red Semicolon Doctor, and Zero-Key Swarm. | Python / C / AST / Lexer / Parser | `v1.6.0 Live` ⚡ |
+| **[Airlys](https://github.com/adameehanairagroup/Airlys)** | 64-Bit Sovereign AI-Native Monolithic OS Kernel engineered from first principles (Multiboot 1 & 2 compliant). | Assembly / C / Freestanding LLVM | `Genesis v0.1.0` 🦅 |
 | **[Aira-AI-Endpoint](https://github.com/adameehanairagroup/Aira-AI-Endpoint)** | Sovereign zero-dependency, rate-limit-free OpenAI-compatible API Gateway & Local Server (Port 8080). | Python Standard Library | `Active` 🟢 |
 | **[Aira-CLI-Kit](https://github.com/adameehanairagroup/Aira-CLI-Kit)** | Turn any AI API or LLM into a professional, production-grade CLI application with single-file configuration. | TypeScript / Node.js / CLI | `Open-Source` 🛠️ |
 | **[AiraScan](https://github.com/adameehanairagroup/AiraScan)** | Automated institutional web security & vulnerability auditor written in 100% pure AiraLang. | AiraLang Standard Library | `Open-Source` 🛡️ |
