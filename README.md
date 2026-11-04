@@ -37,7 +37,7 @@ I am **Adam Eehan**, a self-taught systems architect, programming language desig
 
 At age 19, I conceptualized, programmed, and released **AiraLang** — an independent, AI-native systems programming language built from scratch with in-compiler AI directives (`@airaai`), autonomous self-healing syntax auto-recovery, and native decentralized swarm orchestration.
 
-* 👑 **Founder & CEO:** [Aira Group of Technology](https://adameehantech.gitlab.io/airalang-website/)
+* 👑 **Founder & CEO:** [Aira Group of Technology](https://airaaigroup.in)
 * 🧠 **Flagship Invention:** [AiraLang Programming Language (v1.6.0)](https://github.com/adameehanairagroup/Airalang)
 * 🔬 **Scientific Research Publication:** Registered under CERN / Zenodo Open Science Repository — [DOI: 10.5281/zenodo.21546006](https://doi.org/10.5281/zenodo.21546006)
 * 🛡️ **Cybersecurity Research:** Author of *"Neutralizing AI Prompt Injection via Recursive Honey-potting"* (Google VRP Reference ID: 493408185).
@@ -172,11 +172,12 @@ All open-source repositories authored by **Er. Adam Eehan** are actively moderat
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Official_Portfolio-adameehan.vercel.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://adameehan.vercel.app/)
+[![Company Portal](https://img.shields.io/badge/Aira_AI_Group-airaaigroup.in-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://airaaigroup.in)
+[![Official Portfolio](https://img.shields.io/badge/Founder_Portfolio-adameehan.vercel.app-7928CA?style=for-the-badge&logo=three.js&logoColor=white)](https://adameehan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ben.10z__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ben.10z_)
 [![GitLab](https://img.shields.io/badge/GitLab-adameehantech-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/adameehantech)
-[![Email](https://img.shields.io/badge/Email-contact@airagroup.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@airagroup.tech)
+[![Email](https://img.shields.io/badge/Official_Email-adameehanaira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adameehanaira@gmail.com)
 
 <br/>
 
