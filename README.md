@@ -15,6 +15,8 @@
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141755677-blue?logo=wikidata&logoColor=white&style=for-the-badge)](https://www.wikidata.org/wiki/Q141755677)
 [![Wikimedia](https://img.shields.io/badge/Wikimedia_Commons-Verified_Photo-006699?logo=wikimedia-commons&logoColor=white&style=for-the-badge)](https://commons.wikimedia.org/wiki/File:Adam_Eehan.jpg)
 [![Portfolio](https://img.shields.io/badge/3D_Portfolio-Pandora_WebGL-00f2fe?logo=three.js&logoColor=black&style=for-the-badge)](https://adameehan.vercel.app/)
+[![Google Student Ambassador](https://img.shields.io/badge/Google_Ambassador-2026_Cohort-EA4335?logo=google&logoColor=white&style=for-the-badge)](https://airaaigroup.in)
+[![Gemini AI Ecosystem](https://img.shields.io/badge/Gemini_Ecosystem-Ambassador_Trials-00F2FE?logo=googlegemini&logoColor=white&style=for-the-badge)](https://airaaigroup.in)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21546006.svg)](https://doi.org/10.5281/zenodo.21546006)
 [![Google Credentials](https://img.shields.io/badge/Google_Cloud-Verified_MLOps-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)](https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Eehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eehan-1058133b7/)
@@ -38,6 +40,7 @@ I am **Adam Eehan**, a self-taught systems architect, programming language desig
 At age 19, I conceptualized, programmed, and released **AiraLang** — an independent, AI-native systems programming language built from scratch with in-compiler AI directives (`@airaai`), autonomous self-healing syntax auto-recovery, and native decentralized swarm orchestration.
 
 * 👑 **Founder & CEO:** [Aira Group of Technology](https://airaaigroup.in)
+* 🌐 **Google Student Ambassador:** 2026 Cohort (Gemini AI Campus Trials & Developer Empowerment)
 * 🧠 **Flagship Invention:** [AiraLang Programming Language (v1.6.0)](https://github.com/adameehanairagroup/Airalang)
 * 🔬 **Scientific Research Publication:** Registered under CERN / Zenodo Open Science Repository — [DOI: 10.5281/zenodo.21546006](https://doi.org/10.5281/zenodo.21546006)
 * 🛡️ **Cybersecurity Research:** Author of *"Neutralizing AI Prompt Injection via Recursive Honey-potting"* (Google VRP Reference ID: 493408185).
@@ -62,6 +65,16 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 ## 🏆 Verified Credentials & Certifications
 
 <div align="center">
+
+<p align="center">
+  <img src="assets/google-student-ambassador-2026.jpg" width="360" alt="Official Google Student Ambassador 2026 - Er. Adam Eehan" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+</p>
+
+### 🌐 Google Student Ambassador — Gemini Program (2026 Cohort)
+**Google India × Communique Marketing Solutions**  
+*Competitively selected following rigorous evaluation to spearhead Google Gemini AI campus developer trials, LLM exploration, and technical student empowerment across engineering colleges.*
+
+<br/>
 
 <a href="https://www.skills.google/public_profiles/f5f9550e-4d74-4506-b96a-c9a2b536d982">
   <img src="https://img.shields.io/badge/Google_Cloud-Verified_Credentials_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Verified Profile" />
