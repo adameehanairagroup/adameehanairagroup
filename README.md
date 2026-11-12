@@ -67,7 +67,7 @@ At age 19, I conceptualized, programmed, and released **AiraLang** — an indepe
 <div align="center">
 
 <p align="center">
-  <img src="assets/google-student-ambassador-2026.jpg" width="360" alt="Official Google Student Ambassador 2026 - Er. Adam Eehan" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+  <img src="assets/IMG-20261109-WA0007.jpg" width="360" alt="Official Google Student Ambassador 2026 - Er. Adam Eehan" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
 </p>
 
 ### 🌐 Google Student Ambassador — Gemini Program (2026 Cohort)
